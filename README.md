@@ -1,11 +1,11 @@
 # Dockerized Swagger UI
 This Dockerfile packages up Swagger UI and runs it with http-server.
 
-## Swagger UI Version
-2.0.24
+## Compatibility
 
-## Swagger Spec compatibility
-1.1, 1.2
+Swagger UI Version | OpenAPI Spec compatibility |
+------------------ | -------------------------- |
+2.0.24             | 1.1, 1.2  									|
 
 ## Setup and Installation
 
